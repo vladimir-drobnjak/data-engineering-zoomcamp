@@ -1,0 +1,11 @@
+CREATE TABLE
+INSERT 0 1
++----+--------------+
+| [38;2;0;255;95;01mid[39;00m | [38;2;0;255;95;01mname[39;00m         |
+|----+--------------|
+| 1  | Hello Docker |
++----+--------------+
+SELECT 1
+[31msyntax error at or near "\"
+LINE 2: \q
+        ^[0m
